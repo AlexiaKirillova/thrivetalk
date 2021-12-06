@@ -1,0 +1,43 @@
+.contact {
+  color: var(--color-white);
+  background-color: var(--color-astronaut);
+}
+
+.contact__left {
+  max-width: 54.5%;
+  margin-right: auto;
+  padding-top: 106px;
+  padding-left: 181px;
+  padding-bottom: 40px;
+}
+
+.contact__right {
+  max-width: fit-content;
+  line-height: 0;
+}
+
+.contact__title {
+  margin-bottom: 235px;
+}
+
+.contact__descr {
+  margin-bottom: 58px;
+}
+
+.contact__descr strong {
+  display: block;
+  margin-bottom: 63px;
+  font-size: 64px;
+  letter-spacing: -0.01em;
+}
+
+.contact__descr span {
+  font-size: 36px;
+  line-height: 56px;
+  letter-spacing: -0.005em;
+}
+
+.contact__btn {
+  color: var(--color-viking);
+  transform: translateX(-31px);
+}

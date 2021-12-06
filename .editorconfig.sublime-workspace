@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dengr/Desktop/Саша/3/start-template/боль№3/index.html",
+		"/C/Users/dengr/Desktop/Саша/3/старт темплейт/start-template/css/style.css",
+		"/C/Users/dengr/Desktop/Саша/2/work.html",
+		"/C/Users/dengr/Desktop/Саша/3/Заготовка/styles.css",
+		"/C/Users/dengr/Desktop/Саша/3/start-template/fonts/.gitkeep",
+		"/C/Users/dengr/Desktop/Саша/3/work.html",
+		"/C/Users/dengr/Desktop/Саша/3/styles.css",
+		"/C/Users/dengr/Desktop/Саша/3/index.html",
+		"/C/Users/dengr/Desktop/Саша/3/start-template/index.html",
+		"/C/Users/dengr/Desktop/Саша/3/start-template/css/style.css",
+		"/C/Users/dengr/Desktop/Саша/3/Заготовка/index.html",
+		"/C/Users/dengr/Desktop/Саша/1/ДЗ/урок 1.5.html",
+		"/C/Users/dengr/Desktop/Саша/3/start-template (1)/start-template/index.html",
+		"/C/Users/dengr/Desktop/Саша/start-template/.editorconfig",
+		"/C/Users/dengr/Desktop/Саша/start-template/css/style.css",
+		"/C/Users/dengr/Desktop/Саша/start-template/index.html",
+		"/C/Users/dengr/Desktop/Саша/start-template/.DS_Store",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2_еще правки/2.4_Форма.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2_еще правки/2.3_Антибиотик.html",
+		"/C/Users/dengr/Desktop/Саша/1/ДЗ/new.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2_еще правки/2.6_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2_еще правки/2.5_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2/2.6_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2/2.5_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2/2.4_Форма.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ_2/2.3_Антибиотик.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ/2.5_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ/2.4_Форма.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ/2.3_Антибиотик.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ/2.6_Таблица.html",
+		"/C/Users/dengr/Desktop/Саша/1/ДЗ/index1.5.html",
+		"/C/Users/dengr/Desktop/Саша/2/ДЗ/2.4_Форма_1.html",
+		"/C/Users/dengr/Desktop/Саша/1/index1.5.html",
+		"/C/Users/dengr/Desktop/Саша/1/index.html",
+		"/C/Users/dengr/Desktop/Саша/1/урок 1.4.html",
+		"/C/Users/dengr/Desktop/Саша/1/new.html",
+		"/C/Users/dengr/Desktop/Саша/1/урок 1.5.html",
+		"/C/Users/dengr/Desktop/Саша/new.html",
+		"/C/Users/dengr/Desktop/Саша/урок 1.4.html",
+		"/C/Users/dengr/Desktop/Саша/index.html",
+		"/C/Users/dengr/Desktop/Саша/index1.html",
+		"/C/Users/dengr/Downloads/index.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".editorconfig.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

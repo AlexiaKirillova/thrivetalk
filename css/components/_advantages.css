@@ -1,0 +1,35 @@
+.advantages {
+  background-color: var(--color-viking);
+}
+
+.advantages__container {
+  padding-right: 0;
+  padding-left: 180px;
+}
+
+.advantages__left {
+  max-width: 45%;
+  padding-top: 159px;
+  padding-bottom: 84px;
+  margin-right: auto;
+  color: var(--color-white);
+}
+
+.advantages__title {
+  margin-bottom: 82px;
+  font-size: 36px;
+  letter-spacing: -0.006em;
+}
+
+.advantages__descr {
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.advantages__descr strong {
+  font-size: 24px;
+}
+
+.advantages__right {
+  max-width: 55%;
+}
